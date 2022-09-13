@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="edu.lernia.labb4.TollFreeCalculatorTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2022-09-13T22:11:54" hostname="MacBook-Air-som-tillhor-Pontus.local" time="0.056">
+  <properties/>
+  <testcase name="Toll during free hours" classname="edu.lernia.labb4.TollFreeCalculatorTest" time="0.027"/>
+  <testcase name="Multiple passages, max payment per day" classname="edu.lernia.labb4.TollFreeCalculatorTest" time="0.007"/>
+  <testcase name="Pass multiple tolls during 1 hour" classname="edu.lernia.labb4.TollFreeCalculatorTest" time="0.003"/>
+  <testcase name="No charges during July" classname="edu.lernia.labb4.TollFreeCalculatorTest" time="0.006"/>
+  <testcase name="Multiple passages, during one day" classname="edu.lernia.labb4.TollFreeCalculatorTest" time="0.002"/>
+  <testcase name="No charges during weekends" classname="edu.lernia.labb4.TollFreeCalculatorTest" time="0.002"/>
+  <system-out><![CDATA[2020-06-30T07:00
+2020-06-30T08:30
+2020-06-30T09:40
+2020-06-30T15:30
+2020-06-30T17:30
+2020-06-30T07:00
+2020-06-30T07:30
+2020-06-30T07:45
+2020-06-30T07:55
+2020-07-02T07:00
+2020-07-05T15:30
+2020-06-30T06:00
+2020-06-30T08:30
+2020-06-30T18:00
+2020-06-27T07:00
+2020-06-28T15:30
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
